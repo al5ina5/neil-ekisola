@@ -8,7 +8,7 @@ title: Neil Ekisola — Marketing Guru
 
 <img src="https://media.giphy.com/media/3o7bu79VY9ruoYHPs4/giphy.gif" alt="abstract animation" width="100%">
 
-> Neil Ekisola is a determined marketing student at the University of Central Florida. With more than 4 years of experience in working within the Florida creative industry and more than 2 years of customer service and sales in food service, his experience across different businesses has led him to create a unique take on inclusive marketing. Throughout his years of work, Neil Ekisola has built success in artist management, brand development, and execution and organization of large-scale events. Neil Ekisola is well-versed in digital media marketing, social media automation and management tools, and journalistic writing. 
+> Neil Ekisola is a determined marketing student at the University of Central Florida. With more than 4 years of experience in working within the Florida creative industry and more than 2 years of customer service and sales experience in the food service industry, his experience across different businesses has led him to create a unique take on inclusive marketing. Throughout his years of work, Neil Ekisola has built success in artist management, brand development, and execution and organization of large-scale events. Neil Ekisola is well-versed in digital media marketing, social media automation and management tools, and journalistic writing. 
 
 ## Education
 Currently pursuing a Bachelor of Science in Business Administration Marketing at the University of Central Florida, Orlando.
