@@ -1,7 +1,12 @@
-# Hi, I'm Neil Ekisola.
->"You can want success all you want, but to get it, you can’t falter. You can’t slip, you can’t sleep. One eye open, for real, and forever." - Jay-Z
+---
+title: Neil Ekisola — Marketing Guru
+---
 
-![abstract animation](https://media.giphy.com/media/3o7bu79VY9ruoYHPs4/giphy.gif)
+# Hi, I'm Neil Ekisola.
+
+<blockquote style="background-color: #2e3440; color: white; border-left: 5px solid #191D23;"><p>"You can want success all you want, but to get it, you can’t falter. You can’t slip, you can’t sleep. One eye open, for real, and forever." - Jay-Z</p></blockquote>
+
+<img src="https://media.giphy.com/media/3o7bu79VY9ruoYHPs4/giphy.gif" alt="abstract animation" width="100%">
 
 > Neil Ekisola is a determined marketing student at the University of Central Florida. With more than 4 years of experience in working within the Florida creative industry and more than 2 years of customer service and sales in food service, his experience across different businesses has led him to create a unique take on inclusive marketing. Throughout his years of work, Neil Ekisola has built success in artist management, brand development, and execution and organization of large-scale events. Neil Ekisola is well-versed in digital media marketing, social media automation and management tools, and journalistic writing. 
 
