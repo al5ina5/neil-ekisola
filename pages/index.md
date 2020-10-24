@@ -1,7 +1,5 @@
 # Hi, I'm Neil Ekisola.
-```
-"You can want success all you want, but to get it, you can’t falter. You can’t slip, you can’t sleep. One eye open, for real, and forever." - Jay-Z
-```
+>"You can want success all you want, but to get it, you can’t falter. You can’t slip, you can’t sleep. One eye open, for real, and forever." - Jay-Z
 
 ![abstract animation](https://media.giphy.com/media/3o7bu79VY9ruoYHPs4/giphy.gif)
 
@@ -67,7 +65,7 @@ Writer, Content Creator
 ## Hire Me.
 
 I've been known to provide costless value to all projects. Get to know me.
-NeilEki239@Knights.ucf.edu
+[NeilEki239@Knights.ucf.edu](mailto:NeilEki239@knights.ucf.edu)
 
 
 ![Neil Ekisola](/img/neil.jpg)
